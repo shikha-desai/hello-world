@@ -1,3 +1,3 @@
 Hello, Git
 Hello, again
-Updating readme.txt
+Updating readme
