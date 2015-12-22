@@ -12,4 +12,8 @@ Changing feature2
 =======
 Updating readme.txt
 Fixing Bug #1234
+<<<<<<< HEAD
 >>>>>>> Fixed Bug #1234
+=======
+Really changing bug1234
+>>>>>>> Really fixing bug1234
